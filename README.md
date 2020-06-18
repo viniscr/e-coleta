@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Projeto de API/Aplicação Web e Aplicativo Mobile para cadastro e busca de pontos de coleta de resíduos
+> Projeto de API, Aplicação Web e Aplicativo Mobile para cadastro e busca de pontos de coleta de resíduos
 
 ## Install Server Dependencies
 
